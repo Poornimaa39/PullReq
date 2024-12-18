@@ -10,6 +10,6 @@ if (i % 2 != 0)
 sum = sum + i;
 }
 }
-System.out.print("The Sum Of 100 Odd Numbers are:" + sum);
+System.out.print("The Sum  100 Odd Numbers are:" + sum);
 }
 }
